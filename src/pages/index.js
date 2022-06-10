@@ -5,6 +5,7 @@ const buttonCancelPopup = popupSignin.querySelector('.popup__close');
 const nameUser = document.querySelector('.header__name-user');
 const nameUserInput = document.querySelector('.popup__input-name');
 
+
 getUsdCbRf = () => {
   fetch('https://iss.moex.com/iss/statistics/engines/currency/markets/selt/rates.json?iss.meta=off')
     .then((response) => {
@@ -46,8 +47,8 @@ function closePopupSignin() {
 
 function sendFormSignin(event) {
   event.preventDefault();
-  console.log(nameUserInput.value)
   nameUser.textContent = nameUserInput.value;
+  buttonSignin.classList.add('header__button_remove');
   closePopupSignin()
 }
 

@@ -5,7 +5,9 @@
 @import url(../blocks/heder/__logo/header__logo.css);
 @import url(../blocks/heder/__cbr/header__cbr.css);
 @import url(../blocks/heder/__block-user/header__block-user.css);
+@import url(../blocks/heder/__name-user/header__name-user.css);
 @import url(../blocks/heder/__button/header__button.css);
+@import url(../blocks/heder/__button/_remove/header__button_remove.css);
 @import url(../blocks/sidenav/sidenav.css);
 @import url(../blocks/sidenav/__logo/sidenav__logo.css);
 @import url(../blocks/sidenav/__link/sidenav__link.css);
