@@ -1,0 +1,8 @@
+.popup__content {
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  height: 200px;
+  width: 380px;
+  padding: 20px;
+}

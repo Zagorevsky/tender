@@ -1,6 +1,17 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/heder/header.css);
+@import url(../blocks/heder/__block-logo/header__block-logo.css);
+@import url(../blocks/heder/__logo/header__logo.css);
+@import url(../blocks/heder/__cbr/header__cbr.css);
+@import url(../blocks/heder/__block-user/header__block-user.css);
+@import url(../blocks/heder/__button/header__button.css);
 @import url(../blocks/sidenav/sidenav.css);
 @import url(../blocks/sidenav/__logo/sidenav__logo.css);
 @import url(../blocks/sidenav/__link/sidenav__link.css);
+@import url(../blocks/button/button.css);
 @import url(../blocks/main/main.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__content/.popup__content.css);
+@import url(../blocks/popup/__input/popup__input-name.css);
+@import url(../blocks/popup/_opened/popup_opened.css);

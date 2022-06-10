@@ -1,15 +1,5 @@
 .main {
-  margin: 0 100px 0 450px;
+  margin: 200px 100px 0 450px;
   font-size: 28px;
   padding: 0;
-}
-
-@media screen and (max-height: 450px) {
-  .sidenav {
-    padding-top: 15px;
-  }
-
-  .sidenav a {
-    font-size: 18px;
-  }
 }

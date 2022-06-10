@@ -4,9 +4,11 @@
   font-size: 25px;
   color: #909090;
   display: block;
+  margin: 0;
 }
 
 .sidenav__link:hover {
   color: #ff3214;
   text-decoration:  underline;
+  cursor: pointer;
 }
