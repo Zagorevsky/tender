@@ -1,9 +1,11 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/font.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/heder/header.css);
 @import url(../blocks/heder/__block-logo/header__block-logo.css);
 @import url(../blocks/heder/__logo/header__logo.css);
 @import url(../blocks/heder/__cbr/header__cbr.css);
+@import url(../blocks/heder/__cbr-usd/header__cbr-usd.css);
 @import url(../blocks/heder/__block-user/header__block-user.css);
 @import url(../blocks/heder/__name-user/header__name-user.css);
 @import url(../blocks/heder/__button/header__button.css);
